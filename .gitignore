@@ -21,3 +21,8 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+public/zips.geojson
+src/data/ACSS*
+src/data/Weekly*
+src/data/oregon_income_RAW.csv

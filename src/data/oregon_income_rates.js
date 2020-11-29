@@ -6,10 +6,10 @@ const oregon_income_rates = {
        householdMedian: "43333",
        familyMedian: "55625",
        marriedCoupleMedian: "60000",
-       nonfamilyHouseholdMedian: "-",
+       nonfamilyHouseholdMedian: "N/A",
        householdMean: "57422",
        familyMean: "43242",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "70890"
     },
     "97002": {
@@ -19,7 +19,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "37340",
        householdMean: "93306",
        familyMean: "102352",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "68224"
     },
     "97004": {
@@ -29,7 +29,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "27279",
        householdMean: "101251",
        familyMean: "111681",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "56390"
     },
     "97005": {
@@ -39,7 +39,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "35620",
        householdMean: "68296",
        familyMean: "79091",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "53230"
     },
     "97006": {
@@ -69,7 +69,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "41335",
        householdMean: "80246",
        familyMean: "91888",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "55849"
     },
     "97009": {
@@ -79,17 +79,17 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "39224",
        householdMean: "98336",
        familyMean: "107938",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "56804"
     },
     "97011": {
        householdMedian: "42024",
        familyMedian: "78508",
        marriedCoupleMedian: "77903",
-       nonfamilyHouseholdMedian: "-",
+       nonfamilyHouseholdMedian: "N/A",
        householdMean: "53004",
        familyMean: "67358",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "24206"
     },
     "97013": {
@@ -99,7 +99,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "45323",
        householdMean: "86067",
        familyMean: "97120",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "51616"
     },
     "97014": {
@@ -109,7 +109,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "33125",
        householdMean: "57012",
        familyMean: "69805",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "36799"
     },
     "97015": {
@@ -119,7 +119,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "47721",
        householdMean: "89869",
        familyMean: "104364",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "57381"
     },
     "97016": {
@@ -129,7 +129,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "23486",
        householdMean: "63366",
        familyMean: "79819",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "33936"
     },
     "97017": {
@@ -139,7 +139,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "42642",
        householdMean: "95691",
        familyMean: "106048",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "47223"
     },
     "97018": {
@@ -149,7 +149,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "58500",
        householdMean: "79213",
        familyMean: "80494",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "75971"
     },
     "97019": {
@@ -159,7 +159,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "28487",
        householdMean: "83990",
        familyMean: "103179",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "44502"
     },
     "97020": {
@@ -169,7 +169,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "41458",
        householdMean: "77103",
        familyMean: "78675",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "66613"
     },
     "97021": {
@@ -179,7 +179,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "36250",
        householdMean: "74211",
        familyMean: "95186",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "36965"
     },
     "97022": {
@@ -189,7 +189,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "42500",
        householdMean: "87613",
        familyMean: "84276",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "48384"
     },
     "97023": {
@@ -199,7 +199,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "50744",
        householdMean: "86297",
        familyMean: "95735",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "53552"
     },
     "97024": {
@@ -209,7 +209,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "37026",
        householdMean: "72989",
        familyMean: "81086",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "52491"
     },
     "97026": {
@@ -219,7 +219,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "36625",
        householdMean: "76582",
        familyMean: "76846",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "51834"
     },
     "97027": {
@@ -229,17 +229,17 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "34183",
        householdMean: "79291",
        familyMean: "91002",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "53424"
     },
     "97028": {
        householdMedian: "66971",
-       familyMedian: "-",
-       marriedCoupleMedian: "-",
-       nonfamilyHouseholdMedian: "-",
+       familyMedian: "N/A",
+       marriedCoupleMedian: "N/A",
+       nonfamilyHouseholdMedian: "N/A",
        householdMean: "78339",
-       familyMean: "N",
-       marriedCoupleMean: "N",
+       familyMean: "N/A",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "78353"
     },
     "97029": {
@@ -249,7 +249,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "17813",
        householdMean: "89179",
        familyMean: "118366",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "27902"
     },
     "97030": {
@@ -259,7 +259,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "31572",
        householdMean: "61710",
        familyMean: "70824",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "43419"
     },
     "97031": {
@@ -269,7 +269,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "45199",
        householdMean: "87325",
        familyMean: "99917",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "61808"
     },
     "97032": {
@@ -279,17 +279,17 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "37831",
        householdMean: "70122",
        familyMean: "78003",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "39711"
     },
     "97033": {
        householdMedian: "25833",
-       familyMedian: "-",
-       marriedCoupleMedian: "-",
+       familyMedian: "N/A",
+       marriedCoupleMedian: "N/A",
        nonfamilyHouseholdMedian: "22143",
        householdMean: "63250",
-       familyMean: "N",
-       marriedCoupleMean: "N",
+       familyMean: "N/A",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "61125"
     },
     "97034": {
@@ -299,7 +299,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "51750",
        householdMean: "174269",
        familyMean: "210109",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "76637"
     },
     "97035": {
@@ -309,7 +309,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "49000",
        householdMean: "130985",
        familyMean: "164620",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "67804"
     },
     "97037": {
@@ -319,7 +319,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "26250",
        householdMean: "54797",
        familyMean: "67710",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "29316"
     },
     "97038": {
@@ -329,7 +329,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "38762",
        householdMean: "74479",
        familyMean: "83021",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "46239"
     },
     "97039": {
@@ -339,7 +339,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "29375",
        householdMean: "75313",
        familyMean: "87403",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "43231"
     },
     "97040": {
@@ -349,7 +349,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "54167",
        householdMean: "79003",
        familyMean: "85330",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "61790"
     },
     "97041": {
@@ -359,17 +359,17 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "48542",
        householdMean: "81499",
        familyMean: "85503",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "62747"
     },
     "97042": {
        householdMedian: "73669",
        familyMedian: "86081",
        marriedCoupleMedian: "98068",
-       nonfamilyHouseholdMedian: "-",
+       nonfamilyHouseholdMedian: "N/A",
        householdMean: "87366",
        familyMean: "96327",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "40749"
     },
     "97045": {
@@ -379,7 +379,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "41944",
        householdMean: "91935",
        familyMean: "103094",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "55146"
     },
     "97048": {
@@ -389,7 +389,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "32765",
        householdMean: "68251",
        familyMean: "76883",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "39506"
     },
     "97049": {
@@ -399,7 +399,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "62853",
        householdMean: "82402",
        familyMean: "93098",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "54072"
     },
     "97050": {
@@ -409,7 +409,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "29063",
        householdMean: "54928",
        familyMean: "63130",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "38291"
     },
     "97051": {
@@ -419,7 +419,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "32887",
        householdMean: "69073",
        familyMean: "80221",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "43042"
     },
     "97053": {
@@ -429,7 +429,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "43442",
        householdMean: "97057",
        familyMean: "118824",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "43529"
     },
     "97054": {
@@ -439,7 +439,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "57313",
        householdMean: "78870",
        familyMean: "85803",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "54048"
     },
     "97055": {
@@ -449,7 +449,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "38783",
        householdMean: "80470",
        familyMean: "89708",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "48321"
     },
     "97056": {
@@ -459,18 +459,18 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "31930",
        householdMean: "85649",
        familyMean: "100056",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "50494"
     },
     "97057": {
        householdMedian: "22750",
-       familyMedian: "-",
-       marriedCoupleMedian: "-",
-       nonfamilyHouseholdMedian: "-",
+       familyMedian: "N/A",
+       marriedCoupleMedian: "N/A",
+       nonfamilyHouseholdMedian: "N/A",
        householdMean: "21933",
-       familyMean: "N",
-       marriedCoupleMean: "N",
-       nonfamilyMean: "N"
+       familyMean: "N/A",
+       marriedCoupleMean: "N/A",
+       nonfamilyMean: "N/A"
     },
     "97058": {
        householdMedian: "50407",
@@ -479,7 +479,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "31607",
        householdMean: "62914",
        familyMean: "72113",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "39836"
     },
     "97060": {
@@ -489,7 +489,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "40144",
        householdMean: "83776",
        familyMean: "93953",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "52613"
     },
     "97062": {
@@ -499,7 +499,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "42158",
        householdMean: "103323",
        familyMean: "121444",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "60524"
     },
     "97063": {
@@ -509,7 +509,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "43750",
        householdMean: "83795",
        familyMean: "107538",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "46313"
     },
     "97064": {
@@ -519,7 +519,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "29561",
        householdMean: "64063",
        familyMean: "71357",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "41568"
     },
     "97065": {
@@ -529,7 +529,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "21667",
        householdMean: "70233",
        familyMean: "98644",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "32733"
     },
     "97067": {
@@ -539,7 +539,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "33011",
        householdMean: "60227",
        familyMean: "71134",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "39765"
     },
     "97068": {
@@ -549,7 +549,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "43391",
        householdMean: "139386",
        familyMean: "157902",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "75051"
     },
     "97070": {
@@ -559,7 +559,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "52017",
        householdMean: "103831",
        familyMean: "115216",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "79755"
     },
     "97071": {
@@ -569,7 +569,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "33353",
        householdMean: "61204",
        familyMean: "64080",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "44333"
     },
     "97080": {
@@ -579,7 +579,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "39826",
        householdMean: "86821",
        familyMean: "97813",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "51655"
     },
     "97086": {
@@ -589,7 +589,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "50890",
        householdMean: "120447",
        familyMean: "147681",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "60134"
     },
     "97089": {
@@ -599,7 +599,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "33607",
        householdMean: "107965",
        familyMean: "118429",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "46503"
     },
     "97101": {
@@ -609,18 +609,18 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "22131",
        householdMean: "70928",
        familyMean: "80740",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "41219"
     },
     "97102": {
-       householdMedian: "-",
-       familyMedian: "-",
-       marriedCoupleMedian: "-",
-       nonfamilyHouseholdMedian: "-",
+       householdMedian: "N/A",
+       familyMedian: "N/A",
+       marriedCoupleMedian: "N/A",
+       nonfamilyHouseholdMedian: "N/A",
        householdMean: "137319",
        familyMean: "138498",
-       marriedCoupleMean: "N",
-       nonfamilyMean: "N"
+       marriedCoupleMean: "N/A",
+       nonfamilyMean: "N/A"
     },
     "97103": {
        householdMedian: "52846",
@@ -629,7 +629,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "33596",
        householdMean: "67589",
        familyMean: "83498",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "42296"
     },
     "97106": {
@@ -639,7 +639,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "45625",
        householdMean: "112275",
        familyMean: "116469",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "71213"
     },
     "97107": {
@@ -649,7 +649,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "30000",
        householdMean: "64217",
        familyMean: "69843",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "42745"
     },
     "97108": {
@@ -659,7 +659,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "35800",
        householdMean: "50734",
        familyMean: "57677",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "38995"
     },
     "97109": {
@@ -669,7 +669,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "26429",
        householdMean: "102395",
        familyMean: "115935",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "31850"
     },
     "97110": {
@@ -679,7 +679,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "24306",
        householdMean: "62348",
        familyMean: "76550",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "50829"
     },
     "97111": {
@@ -689,7 +689,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "47538",
        householdMean: "69661",
        familyMean: "73204",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "43046"
     },
     "97112": {
@@ -699,7 +699,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "32500",
        householdMean: "55746",
        familyMean: "66154",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "40300"
     },
     "97113": {
@@ -709,7 +709,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "48534",
        householdMean: "76899",
        familyMean: "77755",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "65285"
     },
     "97114": {
@@ -719,17 +719,17 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "35729",
        householdMean: "77057",
        familyMean: "82701",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "44479"
     },
     "97115": {
        householdMedian: "74375",
        familyMedian: "78214",
        marriedCoupleMedian: "81429",
-       nonfamilyHouseholdMedian: "-",
+       nonfamilyHouseholdMedian: "N/A",
        householdMean: "86879",
        familyMean: "91301",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "60701"
     },
     "97116": {
@@ -739,7 +739,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "35375",
        householdMean: "77683",
        familyMean: "87177",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "45489"
     },
     "97117": {
@@ -749,7 +749,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "101111",
        householdMean: "98702",
        familyMean: "103941",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "79973"
     },
     "97118": {
@@ -759,7 +759,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "38438",
        householdMean: "74121",
        familyMean: "57181",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "106035"
     },
     "97119": {
@@ -769,7 +769,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "42344",
        householdMean: "112056",
        familyMean: "123978",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "48911"
     },
     "97121": {
@@ -779,7 +779,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "41875",
        householdMean: "69526",
        familyMean: "72954",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "56741"
     },
     "97122": {
@@ -789,7 +789,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "25568",
        householdMean: "44982",
        familyMean: "59615",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "23508"
     },
     "97123": {
@@ -799,7 +799,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "42931",
        householdMean: "89940",
        familyMean: "94817",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "68236"
     },
     "97124": {
@@ -809,18 +809,18 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "68805",
        householdMean: "99239",
        familyMean: "108540",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "75713"
     },
     "97125": {
        householdMedian: "139875",
        familyMedian: "138984",
        marriedCoupleMedian: "138281",
-       nonfamilyHouseholdMedian: "-",
+       nonfamilyHouseholdMedian: "N/A",
        householdMean: "126629",
        familyMean: "115314",
-       marriedCoupleMean: "N",
-       nonfamilyMean: "-"
+       marriedCoupleMean: "N/A",
+       nonfamilyMean: "N/A"
     },
     "97127": {
        householdMedian: "63832",
@@ -829,7 +829,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "39015",
        householdMean: "74210",
        familyMean: "77486",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "56166"
     },
     "97128": {
@@ -839,7 +839,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "39646",
        householdMean: "79052",
        familyMean: "91277",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "53525"
     },
     "97130": {
@@ -849,7 +849,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "50192",
        householdMean: "61794",
        familyMean: "76656",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "44729"
     },
     "97131": {
@@ -859,7 +859,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "41406",
        householdMean: "74702",
        familyMean: "96616",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "44989"
     },
     "97132": {
@@ -869,7 +869,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "38905",
        householdMean: "82649",
        familyMean: "91161",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "54976"
     },
     "97133": {
@@ -879,27 +879,27 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "48906",
        householdMean: "115342",
        familyMean: "131122",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "68220"
     },
     "97134": {
        householdMedian: "61823",
-       familyMedian: "-",
-       marriedCoupleMedian: "-",
+       familyMedian: "N/A",
+       marriedCoupleMedian: "N/A",
        nonfamilyHouseholdMedian: "62005",
        householdMean: "74093",
-       familyMean: "N",
-       marriedCoupleMean: "N",
+       familyMean: "N/A",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "78582"
     },
     "97135": {
-       householdMedian: "-",
+       householdMedian: "N/A",
        familyMedian: "39361",
        marriedCoupleMedian: "43482",
        nonfamilyHouseholdMedian: "16661",
        householdMean: "38716",
        familyMean: "40774",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "30351"
     },
     "97136": {
@@ -909,7 +909,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "24554",
        householdMean: "50850",
        familyMean: "58069",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "36457"
     },
     "97137": {
@@ -919,7 +919,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "63542",
        householdMean: "101234",
        familyMean: "105163",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "81488"
     },
     "97138": {
@@ -929,7 +929,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "30011",
        householdMean: "64171",
        familyMean: "79321",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "43102"
     },
     "97140": {
@@ -939,7 +939,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "40711",
        householdMean: "122837",
        familyMean: "140832",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "55006"
     },
     "97141": {
@@ -949,18 +949,18 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "26689",
        householdMean: "65303",
        familyMean: "77907",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "39270"
     },
     "97144": {
-       householdMedian: "-",
-       familyMedian: "-",
-       marriedCoupleMedian: "-",
-       nonfamilyHouseholdMedian: "-",
+       householdMedian: "N/A",
+       familyMedian: "N/A",
+       marriedCoupleMedian: "N/A",
+       nonfamilyHouseholdMedian: "N/A",
        householdMean: "52603",
-       familyMean: "N",
-       marriedCoupleMean: "N",
-       nonfamilyMean: "N"
+       familyMean: "N/A",
+       marriedCoupleMean: "N/A",
+       nonfamilyMean: "N/A"
     },
     "97145": {
        householdMedian: "85486",
@@ -969,7 +969,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "31731",
        householdMean: "67449",
        familyMean: "76716",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "45175"
     },
     "97146": {
@@ -979,7 +979,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "27311",
        householdMean: "71966",
        familyMean: "80556",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "41556"
     },
     "97147": {
@@ -989,7 +989,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "33523",
        householdMean: "60319",
        familyMean: "78958",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "47004"
     },
     "97148": {
@@ -999,7 +999,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "51144",
        householdMean: "114078",
        familyMean: "128686",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "62121"
     },
     "97149": {
@@ -1009,7 +1009,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "42083",
        householdMean: "59574",
        familyMean: "77906",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "35514"
     },
     "97201": {
@@ -1019,7 +1019,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "35789",
        householdMean: "96865",
        familyMean: "190499",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "61554"
     },
     "97202": {
@@ -1029,7 +1029,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "49862",
        householdMean: "100566",
        familyMean: "136074",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "63318"
     },
     "97203": {
@@ -1039,17 +1039,17 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "42917",
        householdMean: "75017",
        familyMean: "83000",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "58546"
     },
     "97204": {
        householdMedian: "11763",
-       familyMedian: "-",
-       marriedCoupleMedian: "-",
+       familyMedian: "N/A",
+       marriedCoupleMedian: "N/A",
        nonfamilyHouseholdMedian: "11116",
        householdMean: "35474",
        familyMean: "186672",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "16268"
     },
     "97205": {
@@ -1059,7 +1059,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "25385",
        householdMean: "64671",
        familyMean: "158478",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "40337"
     },
     "97206": {
@@ -1069,18 +1069,18 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "50060",
        householdMean: "76845",
        familyMean: "85101",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "60147"
     },
     "97208": {
-       householdMedian: "-",
-       familyMedian: "-",
-       marriedCoupleMedian: "-",
-       nonfamilyHouseholdMedian: "-",
-       householdMean: "-",
-       familyMean: "-",
-       marriedCoupleMean: "-",
-       nonfamilyMean: "-"
+       householdMedian: "N/A",
+       familyMedian: "N/A",
+       marriedCoupleMedian: "N/A",
+       nonfamilyHouseholdMedian: "N/A",
+       householdMean: "N/A",
+       familyMean: "N/A",
+       marriedCoupleMean: "N/A",
+       nonfamilyMean: "N/A"
     },
     "97209": {
        householdMedian: "61070",
@@ -1089,7 +1089,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "48497",
        householdMean: "87462",
        familyMean: "146316",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "71554"
     },
     "97210": {
@@ -1099,7 +1099,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "48188",
        householdMean: "138806",
        familyMean: "216505",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "86337"
     },
     "97211": {
@@ -1109,7 +1109,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "55697",
        householdMean: "95509",
        familyMean: "107979",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "76325"
     },
     "97212": {
@@ -1119,7 +1119,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "59366",
        householdMean: "136986",
        familyMean: "174889",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "79434"
     },
     "97213": {
@@ -1129,7 +1129,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "49356",
        householdMean: "92113",
        familyMean: "115440",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "61553"
     },
     "97214": {
@@ -1139,7 +1139,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "48550",
        householdMean: "87672",
        familyMean: "125537",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "62733"
     },
     "97215": {
@@ -1149,7 +1149,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "50898",
        householdMean: "105871",
        familyMean: "130109",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "75041"
     },
     "97216": {
@@ -1159,7 +1159,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "32146",
        householdMean: "58314",
        familyMean: "65793",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "42939"
     },
     "97217": {
@@ -1169,7 +1169,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "58765",
        householdMean: "89405",
        familyMean: "99807",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "75849"
     },
     "97218": {
@@ -1179,7 +1179,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "40625",
        householdMean: "71324",
        familyMean: "74557",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "59453"
     },
     "97219": {
@@ -1189,7 +1189,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "61194",
        householdMean: "128818",
        familyMean: "153532",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "84137"
     },
     "97220": {
@@ -1199,7 +1199,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "38163",
        householdMean: "64552",
        familyMean: "74892",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "48286"
     },
     "97221": {
@@ -1209,7 +1209,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "57143",
        householdMean: "151127",
        familyMean: "188386",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "78502"
     },
     "97222": {
@@ -1219,7 +1219,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "39806",
        householdMean: "70932",
        familyMean: "83651",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "48764"
     },
     "97223": {
@@ -1229,7 +1229,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "43482",
        householdMean: "96946",
        familyMean: "113846",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "61572"
     },
     "97224": {
@@ -1239,7 +1239,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "45616",
        householdMean: "100467",
        familyMean: "123247",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "60401"
     },
     "97225": {
@@ -1249,7 +1249,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "48721",
        householdMean: "110183",
        familyMean: "147751",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "63676"
     },
     "97227": {
@@ -1259,7 +1259,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "51825",
        householdMean: "90736",
        familyMean: "124811",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "72657"
     },
     "97229": {
@@ -1269,7 +1269,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "53499",
        householdMean: "148736",
        familyMean: "171703",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "73071"
     },
     "97230": {
@@ -1289,7 +1289,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "43125",
        householdMean: "164915",
        familyMean: "188088",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "116884"
     },
     "97232": {
@@ -1299,7 +1299,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "46417",
        householdMean: "89620",
        familyMean: "147189",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "61734"
     },
     "97233": {
@@ -1309,7 +1309,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "26815",
        householdMean: "50839",
        familyMean: "54970",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "37397"
     },
     "97236": {
@@ -1319,7 +1319,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "25167",
        householdMean: "62358",
        familyMean: "70387",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "35746"
     },
     "97239": {
@@ -1329,7 +1329,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "62705",
        householdMean: "121579",
        familyMean: "164772",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "82961"
     },
     "97266": {
@@ -1349,7 +1349,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "41963",
        householdMean: "86880",
        familyMean: "102843",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "54298"
     },
     "97301": {
@@ -1359,7 +1359,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "27156",
        householdMean: "52194",
        familyMean: "60827",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "37775"
     },
     "97302": {
@@ -1379,7 +1379,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "39280",
        householdMean: "76629",
        familyMean: "85514",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "54996"
     },
     "97304": {
@@ -1389,7 +1389,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "35640",
        householdMean: "86017",
        familyMean: "95443",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "60081"
     },
     "97305": {
@@ -1399,7 +1399,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "34416",
        householdMean: "59337",
        familyMean: "64704",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "41217"
     },
     "97306": {
@@ -1409,7 +1409,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "39854",
        householdMean: "86194",
        familyMean: "97406",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "56914"
     },
     "97317": {
@@ -1419,7 +1419,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "34406",
        householdMean: "75750",
        familyMean: "82088",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "49684"
     },
     "97321": {
@@ -1429,7 +1429,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "40494",
        householdMean: "83388",
        familyMean: "96040",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "50795"
     },
     "97322": {
@@ -1439,7 +1439,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "33680",
        householdMean: "65320",
        familyMean: "77719",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "39450"
     },
     "97324": {
@@ -1449,7 +1449,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "23229",
        householdMean: "67056",
        familyMean: "79894",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "28037"
     },
     "97325": {
@@ -1459,7 +1459,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "39615",
        householdMean: "72415",
        familyMean: "78219",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "39967"
     },
     "97326": {
@@ -1469,7 +1469,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "56000",
        householdMean: "69223",
        familyMean: "69006",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "65682"
     },
     "97327": {
@@ -1479,18 +1479,18 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "33913",
        householdMean: "73701",
        familyMean: "84239",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "53880"
     },
     "97329": {
-       householdMedian: "-",
-       familyMedian: "-",
-       marriedCoupleMedian: "-",
-       nonfamilyHouseholdMedian: "-",
+       householdMedian: "N/A",
+       familyMedian: "N/A",
+       marriedCoupleMedian: "N/A",
+       nonfamilyHouseholdMedian: "N/A",
        householdMean: "54477",
        familyMean: "82298",
-       marriedCoupleMean: "N",
-       nonfamilyMean: "N"
+       marriedCoupleMean: "N/A",
+       nonfamilyMean: "N/A"
     },
     "97330": {
        householdMedian: "53610",
@@ -1499,18 +1499,18 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "29445",
        householdMean: "80126",
        familyMean: "111916",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "42454"
     },
     "97331": {
-       householdMedian: "-",
-       familyMedian: "-",
-       marriedCoupleMedian: "-",
-       nonfamilyHouseholdMedian: "-",
-       householdMean: "-",
-       familyMean: "-",
-       marriedCoupleMean: "-",
-       nonfamilyMean: "-"
+       householdMedian: "N/A",
+       familyMedian: "N/A",
+       marriedCoupleMedian: "N/A",
+       nonfamilyHouseholdMedian: "N/A",
+       householdMean: "N/A",
+       familyMean: "N/A",
+       marriedCoupleMean: "N/A",
+       nonfamilyMean: "N/A"
     },
     "97333": {
        householdMedian: "52314",
@@ -1519,7 +1519,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "30673",
        householdMean: "71459",
        familyMean: "94157",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "45582"
     },
     "97338": {
@@ -1529,7 +1529,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "37833",
        householdMean: "70429",
        familyMean: "79253",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "45445"
     },
     "97341": {
@@ -1539,27 +1539,27 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "22679",
        householdMean: "64855",
        familyMean: "82164",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "39204"
     },
     "97342": {
        householdMedian: "25250",
-       familyMedian: "-",
-       marriedCoupleMedian: "-",
+       familyMedian: "N/A",
+       marriedCoupleMedian: "N/A",
        nonfamilyHouseholdMedian: "26000",
        householdMean: "60676",
        familyMean: "70870",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "28133"
     },
     "97343": {
        householdMedian: "22500",
-       familyMedian: "-",
-       marriedCoupleMedian: "-",
+       familyMedian: "N/A",
+       marriedCoupleMedian: "N/A",
        nonfamilyHouseholdMedian: "-2500",
        householdMean: "36535",
        familyMean: "73795",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "11252"
     },
     "97344": {
@@ -1569,7 +1569,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "21442",
        householdMean: "60415",
        familyMean: "67301",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "40933"
     },
     "97345": {
@@ -1579,7 +1579,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "31389",
        householdMean: "42877",
        familyMean: "45901",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "35767"
     },
     "97346": {
@@ -1589,7 +1589,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "27917",
        householdMean: "62935",
        familyMean: "69923",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "37561"
     },
     "97347": {
@@ -1599,7 +1599,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "27768",
        householdMean: "53380",
        familyMean: "58407",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "36200"
     },
     "97348": {
@@ -1609,7 +1609,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "76786",
        householdMean: "80348",
        familyMean: "86354",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "64027"
     },
     "97350": {
@@ -1619,7 +1619,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "18625",
        householdMean: "52215",
        familyMean: "65903",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "24681"
     },
     "97351": {
@@ -1629,7 +1629,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "28472",
        householdMean: "58857",
        familyMean: "65593",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "41653"
     },
     "97352": {
@@ -1639,7 +1639,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "36563",
        householdMean: "74682",
        familyMean: "76680",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "45130"
     },
     "97355": {
@@ -1649,7 +1649,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "22680",
        householdMean: "61518",
        familyMean: "72027",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "34202"
     },
     "97357": {
@@ -1659,7 +1659,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "48750",
        householdMean: "63310",
        familyMean: "76422",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "50712"
     },
     "97358": {
@@ -1669,7 +1669,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "43333",
        householdMean: "72774",
        familyMean: "79354",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "47297"
     },
     "97360": {
@@ -1679,7 +1679,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "16172",
        householdMean: "47040",
        familyMean: "60532",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "26933"
     },
     "97361": {
@@ -1689,7 +1689,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "19690",
        householdMean: "53495",
        familyMean: "70109",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "29269"
     },
     "97362": {
@@ -1699,7 +1699,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "17401",
        householdMean: "66582",
        familyMean: "79232",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "30984"
     },
     "97364": {
@@ -1709,7 +1709,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "47583",
        householdMean: "64005",
        familyMean: "77381",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "37148"
     },
     "97365": {
@@ -1719,7 +1719,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "30234",
        householdMean: "60454",
        familyMean: "69942",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "44015"
     },
     "97366": {
@@ -1729,7 +1729,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "42143",
        householdMean: "72002",
        familyMean: "84828",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "49093"
     },
     "97367": {
@@ -1739,7 +1739,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "29063",
        householdMean: "48622",
        familyMean: "57414",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "37042"
     },
     "97368": {
@@ -1749,17 +1749,17 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "22157",
        householdMean: "67250",
        familyMean: "63731",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "66474"
     },
     "97369": {
-       householdMedian: "-",
-       familyMedian: "-",
-       marriedCoupleMedian: "-",
+       householdMedian: "N/A",
+       familyMedian: "N/A",
+       marriedCoupleMedian: "N/A",
        nonfamilyHouseholdMedian: "26731",
        householdMean: "125819",
        familyMean: "148283",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "30972"
     },
     "97370": {
@@ -1769,28 +1769,28 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "35472",
        householdMean: "85703",
        familyMean: "97715",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "48801"
     },
     "97371": {
        householdMedian: "121500",
-       familyMedian: "-",
-       marriedCoupleMedian: "-",
+       familyMedian: "N/A",
+       marriedCoupleMedian: "N/A",
        nonfamilyHouseholdMedian: "155125",
        householdMean: "152343",
        familyMean: "154690",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "139863"
     },
     "97373": {
-       householdMedian: "-",
-       familyMedian: "-",
-       marriedCoupleMedian: "-",
-       nonfamilyHouseholdMedian: "-",
-       householdMean: "-",
-       familyMean: "-",
-       marriedCoupleMean: "-",
-       nonfamilyMean: "-"
+       householdMedian: "N/A",
+       familyMedian: "N/A",
+       marriedCoupleMedian: "N/A",
+       nonfamilyHouseholdMedian: "N/A",
+       householdMean: "N/A",
+       familyMean: "N/A",
+       marriedCoupleMean: "N/A",
+       nonfamilyMean: "N/A"
     },
     "97374": {
        householdMedian: "61800",
@@ -1799,27 +1799,27 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "41929",
        householdMean: "77203",
        familyMean: "84984",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "46928"
     },
     "97375": {
        householdMedian: "71505",
        familyMedian: "72476",
        marriedCoupleMedian: "76875",
-       nonfamilyHouseholdMedian: "-",
+       nonfamilyHouseholdMedian: "N/A",
        householdMean: "75065",
        familyMean: "81720",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "17113"
     },
     "97376": {
        householdMedian: "51696",
        familyMedian: "49583",
        marriedCoupleMedian: "49417",
-       nonfamilyHouseholdMedian: "-",
+       nonfamilyHouseholdMedian: "N/A",
        householdMean: "78119",
        familyMean: "75023",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "77193"
     },
     "97377": {
@@ -1829,7 +1829,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "23846",
        householdMean: "87108",
        familyMean: "91366",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "22077"
     },
     "97378": {
@@ -1839,7 +1839,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "28468",
        householdMean: "68079",
        familyMean: "83182",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "37908"
     },
     "97380": {
@@ -1849,7 +1849,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "43679",
        householdMean: "58434",
        familyMean: "64477",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "44593"
     },
     "97381": {
@@ -1859,7 +1859,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "33490",
        householdMean: "91957",
        familyMean: "108228",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "49989"
     },
     "97383": {
@@ -1869,18 +1869,18 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "27711",
        householdMean: "76550",
        familyMean: "85107",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "38246"
     },
     "97384": {
-       householdMedian: "-",
-       familyMedian: "-",
-       marriedCoupleMedian: "-",
-       nonfamilyHouseholdMedian: "-",
-       householdMean: "-",
-       familyMean: "-",
-       marriedCoupleMean: "-",
-       nonfamilyMean: "-"
+       householdMedian: "N/A",
+       familyMedian: "N/A",
+       marriedCoupleMedian: "N/A",
+       nonfamilyHouseholdMedian: "N/A",
+       householdMean: "N/A",
+       familyMean: "N/A",
+       marriedCoupleMean: "N/A",
+       nonfamilyMean: "N/A"
     },
     "97385": {
        householdMedian: "73712",
@@ -1889,7 +1889,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "26979",
        householdMean: "81899",
        familyMean: "104780",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "34021"
     },
     "97386": {
@@ -1899,7 +1899,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "26453",
        householdMean: "60232",
        familyMean: "69589",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "37331"
     },
     "97388": {
@@ -1909,7 +1909,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "28906",
        householdMean: "86958",
        familyMean: "79479",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "95650"
     },
     "97389": {
@@ -1919,7 +1919,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "30694",
        householdMean: "83764",
        familyMean: "94565",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "35682"
     },
     "97390": {
@@ -1929,7 +1929,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "25733",
        householdMean: "47965",
        familyMean: "57116",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "30320"
     },
     "97391": {
@@ -1939,7 +1939,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "29875",
        householdMean: "67943",
        familyMean: "75206",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "46020"
     },
     "97392": {
@@ -1949,7 +1949,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "50583",
        householdMean: "84979",
        familyMean: "93351",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "52514"
     },
     "97394": {
@@ -1959,7 +1959,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "21725",
        householdMean: "54907",
        familyMean: "67165",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "34877"
     },
     "97396": {
@@ -1969,7 +1969,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "41875",
        householdMean: "56400",
        familyMean: "58409",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "42317"
     },
     "97401": {
@@ -1979,7 +1979,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "22368",
        householdMean: "58103",
        familyMean: "93405",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "36794"
     },
     "97402": {
@@ -1999,7 +1999,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "24077",
        householdMean: "77342",
        familyMean: "137819",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "37189"
     },
     "97404": {
@@ -2009,7 +2009,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "40441",
        householdMean: "74424",
        familyMean: "80376",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "56151"
     },
     "97405": {
@@ -2019,18 +2019,18 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "38967",
        householdMean: "87836",
        familyMean: "106785",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "54534"
     },
     "97406": {
-       householdMedian: "-",
-       familyMedian: "-",
-       marriedCoupleMedian: "-",
-       nonfamilyHouseholdMedian: "-",
-       householdMean: "N",
-       familyMean: "-",
-       marriedCoupleMean: "-",
-       nonfamilyMean: "N"
+       householdMedian: "N/A",
+       familyMedian: "N/A",
+       marriedCoupleMedian: "N/A",
+       nonfamilyHouseholdMedian: "N/A",
+       householdMean: "N/A",
+       familyMean: "N/A",
+       marriedCoupleMean: "N/A",
+       nonfamilyMean: "N/A"
     },
     "97408": {
        householdMedian: "61067",
@@ -2039,7 +2039,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "36755",
        householdMean: "99378",
        familyMean: "116869",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "64824"
     },
     "97410": {
@@ -2049,7 +2049,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "21875",
        householdMean: "58876",
        familyMean: "66847",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "34878"
     },
     "97411": {
@@ -2059,7 +2059,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "18333",
        householdMean: "52999",
        familyMean: "64240",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "32821"
     },
     "97412": {
@@ -2069,7 +2069,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "24792",
        householdMean: "50725",
        familyMean: "53878",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "36764"
     },
     "97413": {
@@ -2079,17 +2079,17 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "28000",
        householdMean: "60880",
        familyMean: "73907",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "42755"
     },
     "97414": {
        householdMedian: "9063",
-       familyMedian: "-",
-       marriedCoupleMedian: "-",
-       nonfamilyHouseholdMedian: "-",
+       familyMedian: "N/A",
+       marriedCoupleMedian: "N/A",
+       nonfamilyHouseholdMedian: "N/A",
        householdMean: "10921",
-       familyMean: "N",
-       marriedCoupleMean: "N",
+       familyMean: "N/A",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "8846"
     },
     "97415": {
@@ -2099,7 +2099,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "26752",
        householdMean: "57362",
        familyMean: "67307",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "41974"
     },
     "97416": {
@@ -2109,7 +2109,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "27188",
        householdMean: "65919",
        familyMean: "64648",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "39901"
     },
     "97417": {
@@ -2119,7 +2119,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "26688",
        householdMean: "42432",
        familyMean: "45897",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "34240"
     },
     "97419": {
@@ -2129,7 +2129,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "22656",
        householdMean: "61460",
        familyMean: "68742",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "39689"
     },
     "97420": {
@@ -2139,7 +2139,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "30165",
        householdMean: "63222",
        familyMean: "78275",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "39311"
     },
     "97423": {
@@ -2149,7 +2149,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "29797",
        householdMean: "57821",
        familyMean: "63219",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "40256"
     },
     "97424": {
@@ -2159,7 +2159,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "28300",
        householdMean: "57383",
        familyMean: "65343",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "38347"
     },
     "97426": {
@@ -2169,7 +2169,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "32981",
        householdMean: "69596",
        familyMean: "77172",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "46866"
     },
     "97429": {
@@ -2179,7 +2179,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "30625",
        householdMean: "60800",
        familyMean: "65676",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "33044"
     },
     "97430": {
@@ -2189,7 +2189,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "22875",
        householdMean: "57173",
        familyMean: "75603",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "26659"
     },
     "97431": {
@@ -2199,7 +2199,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "35956",
        householdMean: "78779",
        familyMean: "84227",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "37908"
     },
     "97434": {
@@ -2209,7 +2209,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "12083",
        householdMean: "44293",
        familyMean: "50890",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "13318"
     },
     "97435": {
@@ -2219,7 +2219,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "29886",
        householdMean: "57980",
        familyMean: "70002",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "33144"
     },
     "97436": {
@@ -2229,7 +2229,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "22396",
        householdMean: "75447",
        familyMean: "88446",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "35064"
     },
     "97437": {
@@ -2239,17 +2239,17 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "49279",
        householdMean: "75067",
        familyMean: "76037",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "67115"
     },
     "97438": {
        householdMedian: "59479",
        familyMedian: "62500",
        marriedCoupleMedian: "63315",
-       nonfamilyHouseholdMedian: "-",
+       nonfamilyHouseholdMedian: "N/A",
        householdMean: "79988",
        familyMean: "93083",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "41751"
     },
     "97439": {
@@ -2259,17 +2259,17 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "26495",
        householdMean: "58141",
        familyMean: "68774",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "39829"
     },
     "97441": {
        householdMedian: "44394",
        familyMedian: "57873",
-       marriedCoupleMedian: "-",
+       marriedCoupleMedian: "N/A",
        nonfamilyHouseholdMedian: "28105",
        householdMean: "41582",
        familyMean: "46965",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "24549"
     },
     "97442": {
@@ -2279,17 +2279,17 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "18333",
        householdMean: "44955",
        familyMean: "55200",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "24148"
     },
     "97443": {
        householdMedian: "53707",
        familyMedian: "52672",
        marriedCoupleMedian: "61944",
-       nonfamilyHouseholdMedian: "-",
+       nonfamilyHouseholdMedian: "N/A",
        householdMean: "72710",
        familyMean: "67589",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "82765"
     },
     "97444": {
@@ -2299,7 +2299,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "26481",
        householdMean: "68264",
        familyMean: "86142",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "36939"
     },
     "97446": {
@@ -2309,7 +2309,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "30043",
        householdMean: "64840",
        familyMean: "72180",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "30956"
     },
     "97447": {
@@ -2319,7 +2319,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "25847",
        householdMean: "34353",
        familyMean: "46327",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "29384"
     },
     "97448": {
@@ -2329,7 +2329,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "31400",
        householdMean: "66281",
        familyMean: "75666",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "42930"
     },
     "97449": {
@@ -2339,28 +2339,28 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "27063",
        householdMean: "52252",
        familyMean: "64965",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "33154"
     },
     "97450": {
        householdMedian: "47083",
        familyMedian: "46302",
        marriedCoupleMedian: "46771",
-       nonfamilyHouseholdMedian: "-",
+       nonfamilyHouseholdMedian: "N/A",
        householdMean: "50649",
        familyMean: "41843",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "55806"
     },
     "97451": {
        householdMedian: "105500",
        familyMedian: "106250",
        marriedCoupleMedian: "106250",
-       nonfamilyHouseholdMedian: "-",
+       nonfamilyHouseholdMedian: "N/A",
        householdMean: "122686",
        familyMean: "131008",
-       marriedCoupleMean: "N",
-       nonfamilyMean: "N"
+       marriedCoupleMean: "N/A",
+       nonfamilyMean: "N/A"
     },
     "97452": {
        householdMedian: "59667",
@@ -2369,7 +2369,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "43500",
        householdMean: "74985",
        familyMean: "76422",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "67131"
     },
     "97453": {
@@ -2379,7 +2379,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "32614",
        householdMean: "53374",
        familyMean: "64876",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "35708"
     },
     "97454": {
@@ -2389,7 +2389,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "53269",
        householdMean: "89236",
        familyMean: "94737",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "67567"
     },
     "97455": {
@@ -2399,7 +2399,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "20600",
        householdMean: "82512",
        familyMean: "97547",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "24883"
     },
     "97456": {
@@ -2409,7 +2409,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "39531",
        householdMean: "79858",
        familyMean: "93805",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "41712"
     },
     "97457": {
@@ -2419,7 +2419,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "31633",
        householdMean: "56102",
        familyMean: "60606",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "42378"
     },
     "97458": {
@@ -2429,7 +2429,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "20806",
        householdMean: "52181",
        familyMean: "63249",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "29528"
     },
     "97459": {
@@ -2439,17 +2439,17 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "25970",
        householdMean: "68094",
        familyMean: "84252",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "33289"
     },
     "97461": {
        householdMedian: "84185",
-       familyMedian: "-",
+       familyMedian: "N/A",
        marriedCoupleMedian: "140417",
-       nonfamilyHouseholdMedian: "-",
+       nonfamilyHouseholdMedian: "N/A",
        householdMean: "93838",
        familyMean: "95408",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "75595"
     },
     "97462": {
@@ -2459,7 +2459,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "31988",
        householdMean: "60121",
        familyMean: "71165",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "36438"
     },
     "97463": {
@@ -2469,7 +2469,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "28183",
        householdMean: "42214",
        familyMean: "46226",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "30649"
     },
     "97465": {
@@ -2479,7 +2479,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "25739",
        householdMean: "52277",
        familyMean: "67435",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "36825"
     },
     "97466": {
@@ -2489,7 +2489,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "14010",
        householdMean: "39018",
        familyMean: "49868",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "23830"
     },
     "97467": {
@@ -2499,7 +2499,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "20581",
        householdMean: "49338",
        familyMean: "59537",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "32018"
     },
     "97469": {
@@ -2509,7 +2509,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "28929",
        householdMean: "48851",
        familyMean: "55084",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "34400"
     },
     "97470": {
@@ -2519,7 +2519,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "28841",
        householdMean: "54092",
        familyMean: "63684",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "39310"
     },
     "97471": {
@@ -2529,28 +2529,28 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "25637",
        householdMean: "71380",
        familyMean: "84377",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "39543"
     },
     "97473": {
        householdMedian: "51324",
        familyMedian: "56094",
        marriedCoupleMedian: "60048",
-       nonfamilyHouseholdMedian: "-",
+       nonfamilyHouseholdMedian: "N/A",
        householdMean: "51326",
        familyMean: "57419",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "35134"
     },
     "97476": {
        householdMedian: "56295",
        familyMedian: "56786",
        marriedCoupleMedian: "56786",
-       nonfamilyHouseholdMedian: "-",
+       nonfamilyHouseholdMedian: "N/A",
        householdMean: "66315",
        familyMean: "70606",
-       marriedCoupleMean: "N",
-       nonfamilyMean: "-"
+       marriedCoupleMean: "N/A",
+       nonfamilyMean: "N/A"
     },
     "97477": {
        householdMedian: "41493",
@@ -2559,7 +2559,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "30058",
        householdMean: "53674",
        familyMean: "63256",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "39032"
     },
     "97478": {
@@ -2569,7 +2569,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "31624",
        householdMean: "70711",
        familyMean: "81331",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "39988"
     },
     "97479": {
@@ -2579,7 +2579,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "31151",
        householdMean: "53680",
        familyMean: "59382",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "36916"
     },
     "97480": {
@@ -2589,7 +2589,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "20625",
        householdMean: "36977",
        familyMean: "50653",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "20144"
     },
     "97481": {
@@ -2599,17 +2599,17 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "18281",
        householdMean: "81196",
        familyMean: "89805",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "19761"
     },
     "97484": {
        householdMedian: "42232",
        familyMedian: "52750",
        marriedCoupleMedian: "52750",
-       nonfamilyHouseholdMedian: "-",
+       nonfamilyHouseholdMedian: "N/A",
        householdMean: "45920",
        familyMean: "56825",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "27271"
     },
     "97486": {
@@ -2619,7 +2619,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "98000",
        householdMean: "157376",
        familyMean: "166695",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "113013"
     },
     "97487": {
@@ -2629,7 +2629,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "36739",
        householdMean: "63318",
        familyMean: "69168",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "47869"
     },
     "97488": {
@@ -2639,58 +2639,58 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "37250",
        householdMean: "85473",
        familyMean: "99461",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "46017"
     },
     "97489": {
        householdMedian: "71680",
        familyMedian: "82188",
        marriedCoupleMedian: "92532",
-       nonfamilyHouseholdMedian: "-",
+       nonfamilyHouseholdMedian: "N/A",
        householdMean: "97365",
        familyMean: "111839",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "42186"
     },
     "97490": {
        householdMedian: "46111",
        familyMedian: "47361",
        marriedCoupleMedian: "46389",
-       nonfamilyHouseholdMedian: "-",
+       nonfamilyHouseholdMedian: "N/A",
        householdMean: "56485",
        familyMean: "62354",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "40409"
     },
     "97492": {
        householdMedian: "40069",
        familyMedian: "40385",
        marriedCoupleMedian: "41705",
-       nonfamilyHouseholdMedian: "-",
+       nonfamilyHouseholdMedian: "N/A",
        householdMean: "48213",
        familyMean: "50020",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "40413"
     },
     "97493": {
        householdMedian: "52639",
        familyMedian: "62614",
        marriedCoupleMedian: "64545",
-       nonfamilyHouseholdMedian: "-",
+       nonfamilyHouseholdMedian: "N/A",
        householdMean: "63388",
        familyMean: "77129",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "24378"
     },
     "97494": {
-       householdMedian: "-",
-       familyMedian: "-",
-       marriedCoupleMedian: "-",
-       nonfamilyHouseholdMedian: "-",
-       householdMean: "N",
-       familyMean: "N",
-       marriedCoupleMean: "N",
-       nonfamilyMean: "-"
+       householdMedian: "N/A",
+       familyMedian: "N/A",
+       marriedCoupleMedian: "N/A",
+       nonfamilyHouseholdMedian: "N/A",
+       householdMean: "N/A",
+       familyMean: "N/A",
+       marriedCoupleMean: "N/A",
+       nonfamilyMean: "N/A"
     },
     "97495": {
        householdMedian: "80605",
@@ -2699,7 +2699,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "66833",
        householdMean: "82951",
        familyMean: "95073",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "53386"
     },
     "97496": {
@@ -2709,7 +2709,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "21276",
        householdMean: "60934",
        familyMean: "65883",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "49565"
     },
     "97497": {
@@ -2719,7 +2719,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "28194",
        householdMean: "46550",
        familyMean: "43790",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "49298"
     },
     "97498": {
@@ -2729,7 +2729,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "29821",
        householdMean: "55519",
        familyMean: "78438",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "36342"
     },
     "97499": {
@@ -2739,7 +2739,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "24402",
        householdMean: "45970",
        familyMean: "54856",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "27260"
     },
     "97501": {
@@ -2749,7 +2749,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "30000",
        householdMean: "54811",
        familyMean: "62225",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "38046"
     },
     "97502": {
@@ -2759,7 +2759,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "31066",
        householdMean: "78352",
        familyMean: "90189",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "40995"
     },
     "97503": {
@@ -2769,7 +2769,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "31674",
        householdMean: "59318",
        familyMean: "63524",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "40897"
     },
     "97504": {
@@ -2779,7 +2779,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "33382",
        householdMean: "73820",
        familyMean: "88761",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "42294"
     },
     "97520": {
@@ -2789,7 +2789,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "31993",
        householdMean: "82466",
        familyMean: "112853",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "47973"
     },
     "97522": {
@@ -2799,7 +2799,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "21250",
        householdMean: "67510",
        familyMean: "85858",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "35613"
     },
     "97523": {
@@ -2809,7 +2809,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "20500",
        householdMean: "46195",
        familyMean: "53778",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "30411"
     },
     "97524": {
@@ -2819,7 +2819,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "33604",
        householdMean: "82802",
        familyMean: "90565",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "56924"
     },
     "97525": {
@@ -2829,7 +2829,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "29453",
        householdMean: "62988",
        familyMean: "72876",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "37632"
     },
     "97526": {
@@ -2839,7 +2839,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "29241",
        householdMean: "62695",
        familyMean: "74131",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "40070"
     },
     "97527": {
@@ -2849,7 +2849,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "25835",
        householdMean: "59407",
        familyMean: "69623",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "35254"
     },
     "97530": {
@@ -2859,37 +2859,37 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "30191",
        householdMean: "76656",
        familyMean: "93574",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "46179"
     },
     "97531": {
-       householdMedian: "-",
-       familyMedian: "-",
+       householdMedian: "N/A",
+       familyMedian: "N/A",
        marriedCoupleMedian: "33581",
-       nonfamilyHouseholdMedian: "-",
+       nonfamilyHouseholdMedian: "N/A",
        householdMean: "68129",
        familyMean: "78727",
-       marriedCoupleMean: "N",
-       nonfamilyMean: "N"
+       marriedCoupleMean: "N/A",
+       nonfamilyMean: "N/A"
     },
     "97532": {
        householdMedian: "54444",
        familyMedian: "53542",
        marriedCoupleMedian: "64969",
-       nonfamilyHouseholdMedian: "-",
+       nonfamilyHouseholdMedian: "N/A",
        householdMean: "63287",
        familyMean: "69304",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "37685"
     },
     "97534": {
        householdMedian: "22038",
-       familyMedian: "-",
-       marriedCoupleMedian: "-",
+       familyMedian: "N/A",
+       marriedCoupleMedian: "N/A",
        nonfamilyHouseholdMedian: "21832",
        householdMean: "31410",
        familyMean: "44127",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "24812"
     },
     "97535": {
@@ -2899,7 +2899,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "20766",
        householdMean: "48219",
        familyMean: "64337",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "28457"
     },
     "97536": {
@@ -2909,7 +2909,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "17868",
        householdMean: "46744",
        familyMean: "58516",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "28626"
     },
     "97537": {
@@ -2919,7 +2919,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "28568",
        householdMean: "66084",
        familyMean: "77136",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "39274"
     },
     "97538": {
@@ -2929,7 +2929,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "28393",
        householdMean: "47315",
        familyMean: "52792",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "36290"
     },
     "97539": {
@@ -2939,7 +2939,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "24176",
        householdMean: "54708",
        familyMean: "58545",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "44815"
     },
     "97540": {
@@ -2949,37 +2949,37 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "24255",
        householdMean: "53614",
        familyMean: "63057",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "37724"
     },
     "97541": {
        householdMedian: "50857",
        familyMedian: "56619",
        marriedCoupleMedian: "56790",
-       nonfamilyHouseholdMedian: "-",
+       nonfamilyHouseholdMedian: "N/A",
        householdMean: "49351",
        familyMean: "58841",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "24625"
     },
     "97543": {
        householdMedian: "31638",
-       familyMedian: "-",
+       familyMedian: "N/A",
        marriedCoupleMedian: "85547",
        nonfamilyHouseholdMedian: "15167",
        householdMean: "51276",
        familyMean: "70479",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "17761"
     },
     "97544": {
        householdMedian: "37500",
        familyMedian: "37150",
        marriedCoupleMedian: "39219",
-       nonfamilyHouseholdMedian: "-",
+       nonfamilyHouseholdMedian: "N/A",
        householdMean: "48935",
        familyMean: "58289",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "30571"
     },
     "97601": {
@@ -2989,7 +2989,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "27640",
        householdMean: "57726",
        familyMean: "70231",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "39047"
     },
     "97603": {
@@ -2999,18 +2999,18 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "24423",
        householdMean: "57758",
        familyMean: "68062",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "35828"
     },
     "97604": {
-       householdMedian: "-",
-       familyMedian: "-",
-       marriedCoupleMedian: "-",
-       nonfamilyHouseholdMedian: "-",
-       householdMean: "N",
-       familyMean: "-",
-       marriedCoupleMean: "-",
-       nonfamilyMean: "N"
+       householdMedian: "N/A",
+       familyMedian: "N/A",
+       marriedCoupleMedian: "N/A",
+       nonfamilyHouseholdMedian: "N/A",
+       householdMean: "N/A",
+       familyMean: "N/A",
+       marriedCoupleMean: "N/A",
+       nonfamilyMean: "N/A"
     },
     "97620": {
        householdMedian: "58472",
@@ -3019,27 +3019,27 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "25625",
        householdMean: "63942",
        familyMean: "81643",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "29762"
     },
     "97621": {
        householdMedian: "57713",
        familyMedian: "58476",
        marriedCoupleMedian: "58476",
-       nonfamilyHouseholdMedian: "-",
+       nonfamilyHouseholdMedian: "N/A",
        householdMean: "44937",
        familyMean: "52844",
-       marriedCoupleMean: "N",
-       nonfamilyMean: "N"
+       marriedCoupleMean: "N/A",
+       nonfamilyMean: "N/A"
     },
     "97622": {
        householdMedian: "43571",
        familyMedian: "43155",
        marriedCoupleMedian: "45000",
-       nonfamilyHouseholdMedian: "-",
+       nonfamilyHouseholdMedian: "N/A",
        householdMean: "41900",
        familyMean: "41960",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "36080"
     },
     "97623": {
@@ -3049,7 +3049,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "41094",
        householdMean: "53569",
        familyMean: "58395",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "43032"
     },
     "97624": {
@@ -3059,7 +3059,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "23818",
        householdMean: "49242",
        familyMean: "56977",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "33012"
     },
     "97625": {
@@ -3069,27 +3069,27 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "30583",
        householdMean: "94381",
        familyMean: "137505",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "28465"
     },
     "97626": {
-       householdMedian: "-",
-       familyMedian: "-",
-       marriedCoupleMedian: "-",
-       nonfamilyHouseholdMedian: "-",
-       householdMean: "N",
-       familyMean: "-",
-       marriedCoupleMean: "-",
-       nonfamilyMean: "N"
+       householdMedian: "N/A",
+       familyMedian: "N/A",
+       marriedCoupleMedian: "N/A",
+       nonfamilyHouseholdMedian: "N/A",
+       householdMean: "N/A",
+       familyMean: "N/A",
+       marriedCoupleMean: "N/A",
+       nonfamilyMean: "N/A"
     },
     "97627": {
        householdMedian: "56196",
        familyMedian: "70481",
        marriedCoupleMedian: "72760",
-       nonfamilyHouseholdMedian: "-",
+       nonfamilyHouseholdMedian: "N/A",
        householdMean: "62027",
        familyMean: "73011",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "10379"
     },
     "97630": {
@@ -3099,7 +3099,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "27159",
        householdMean: "54779",
        familyMean: "66438",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "34713"
     },
     "97632": {
@@ -3109,7 +3109,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "29779",
        householdMean: "63468",
        familyMean: "70111",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "36129"
     },
     "97633": {
@@ -3119,27 +3119,27 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "27194",
        householdMean: "60729",
        familyMean: "68269",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "36279"
     },
     "97634": {
        householdMedian: "36500",
        familyMedian: "32000",
-       marriedCoupleMedian: "-",
-       nonfamilyHouseholdMedian: "-",
+       marriedCoupleMedian: "N/A",
+       nonfamilyHouseholdMedian: "N/A",
        householdMean: "50265",
        familyMean: "54150",
-       marriedCoupleMean: "N",
-       nonfamilyMean: "N"
+       marriedCoupleMean: "N/A",
+       nonfamilyMean: "N/A"
     },
     "97635": {
        householdMedian: "26250",
-       familyMedian: "-",
-       marriedCoupleMedian: "-",
+       familyMedian: "N/A",
+       marriedCoupleMedian: "N/A",
        nonfamilyHouseholdMedian: "28021",
        householdMean: "27910",
        familyMean: "31261",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "25970"
     },
     "97636": {
@@ -3149,7 +3149,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "26250",
        householdMean: "50854",
        familyMean: "61657",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "29288"
     },
     "97637": {
@@ -3159,37 +3159,37 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "32500",
        householdMean: "42382",
        familyMean: "49097",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "33532"
     },
     "97638": {
        householdMedian: "40417",
        familyMedian: "56125",
        marriedCoupleMedian: "56125",
-       nonfamilyHouseholdMedian: "-",
+       nonfamilyHouseholdMedian: "N/A",
        householdMean: "43409",
        familyMean: "48398",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "24598"
     },
     "97639": {
        householdMedian: "40658",
        familyMedian: "41974",
        marriedCoupleMedian: "48913",
-       nonfamilyHouseholdMedian: "-",
+       nonfamilyHouseholdMedian: "N/A",
        householdMean: "93131",
        familyMean: "96917",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "72006"
     },
     "97640": {
-       householdMedian: "-",
-       familyMedian: "-",
-       marriedCoupleMedian: "-",
+       householdMedian: "N/A",
+       familyMedian: "N/A",
+       marriedCoupleMedian: "N/A",
        nonfamilyHouseholdMedian: "28889",
        householdMean: "54427",
        familyMean: "70133",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "48538"
     },
     "97641": {
@@ -3199,7 +3199,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "14250",
        householdMean: "41451",
        familyMean: "55020",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "18301"
     },
     "97701": {
@@ -3209,7 +3209,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "40627",
        householdMean: "90896",
        familyMean: "107982",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "57217"
     },
     "97702": {
@@ -3219,7 +3219,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "43052",
        householdMean: "88612",
        familyMean: "100438",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "57336"
     },
     "97707": {
@@ -3229,38 +3229,38 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "34839",
        householdMean: "76554",
        familyMean: "85107",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "48262"
     },
     "97710": {
        householdMedian: "88750",
        familyMedian: "91250",
        marriedCoupleMedian: "91250",
-       nonfamilyHouseholdMedian: "-",
+       nonfamilyHouseholdMedian: "N/A",
        householdMean: "104606",
        familyMean: "111017",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "66856"
     },
     "97711": {
        householdMedian: "53750",
-       familyMedian: "-",
-       marriedCoupleMedian: "-",
-       nonfamilyHouseholdMedian: "-",
+       familyMedian: "N/A",
+       marriedCoupleMedian: "N/A",
+       nonfamilyHouseholdMedian: "N/A",
        householdMean: "64938",
        familyMean: "78037",
-       marriedCoupleMean: "N",
-       nonfamilyMean: "N"
+       marriedCoupleMean: "N/A",
+       nonfamilyMean: "N/A"
     },
     "97712": {
-       householdMedian: "-",
-       familyMedian: "-",
-       marriedCoupleMedian: "-",
-       nonfamilyHouseholdMedian: "-",
-       householdMean: "N",
-       familyMean: "N",
-       marriedCoupleMean: "N",
-       nonfamilyMean: "N"
+       householdMedian: "N/A",
+       familyMedian: "N/A",
+       marriedCoupleMedian: "N/A",
+       nonfamilyHouseholdMedian: "N/A",
+       householdMean: "N/A",
+       familyMean: "N/A",
+       marriedCoupleMean: "N/A",
+       nonfamilyMean: "N/A"
     },
     "97720": {
        householdMedian: "39205",
@@ -3269,7 +3269,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "31987",
        householdMean: "54052",
        familyMean: "60716",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "38927"
     },
     "97721": {
@@ -3279,27 +3279,27 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "21000",
        householdMean: "64060",
        familyMean: "84520",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "33373"
     },
     "97722": {
        householdMedian: "56641",
        familyMedian: "56667",
        marriedCoupleMedian: "56786",
-       nonfamilyHouseholdMedian: "-",
+       nonfamilyHouseholdMedian: "N/A",
        householdMean: "61502",
        familyMean: "61648",
-       marriedCoupleMean: "N",
-       nonfamilyMean: "N"
+       marriedCoupleMean: "N/A",
+       nonfamilyMean: "N/A"
     },
     "97730": {
        householdMedian: "77917",
        familyMedian: "86250",
        marriedCoupleMedian: "86750",
-       nonfamilyHouseholdMedian: "-",
+       nonfamilyHouseholdMedian: "N/A",
        householdMean: "101110",
        familyMean: "109165",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "47093"
     },
     "97731": {
@@ -3309,7 +3309,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "21023",
        householdMean: "40472",
        familyMean: "55833",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "21144"
     },
     "97732": {
@@ -3319,17 +3319,17 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "56250",
        householdMean: "62943",
        familyMean: "69486",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "49857"
     },
     "97733": {
        householdMedian: "35795",
        familyMedian: "39438",
-       marriedCoupleMedian: "-",
-       nonfamilyHouseholdMedian: "-",
+       marriedCoupleMedian: "N/A",
+       nonfamilyHouseholdMedian: "N/A",
        householdMean: "42807",
        familyMean: "49801",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "32466"
     },
     "97734": {
@@ -3339,18 +3339,18 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "30375",
        householdMean: "66703",
        familyMean: "75008",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "38938"
     },
     "97735": {
        householdMedian: "30714",
        familyMedian: "32885",
        marriedCoupleMedian: "32885",
-       nonfamilyHouseholdMedian: "-",
+       nonfamilyHouseholdMedian: "N/A",
        householdMean: "27127",
        familyMean: "32107",
-       marriedCoupleMean: "N",
-       nonfamilyMean: "N"
+       marriedCoupleMean: "N/A",
+       nonfamilyMean: "N/A"
     },
     "97736": {
        householdMedian: "73333",
@@ -3359,7 +3359,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "35938",
        householdMean: "76850",
        familyMean: "83133",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "53811"
     },
     "97737": {
@@ -3369,7 +3369,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "52955",
        householdMean: "49507",
        familyMean: "51354",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "45217"
     },
     "97738": {
@@ -3379,7 +3379,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "28824",
        householdMean: "59316",
        familyMean: "64954",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "41814"
     },
     "97739": {
@@ -3389,7 +3389,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "21850",
        householdMean: "55296",
        familyMean: "60518",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "35267"
     },
     "97741": {
@@ -3399,7 +3399,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "26552",
        householdMean: "61368",
        familyMean: "72495",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "34521"
     },
     "97750": {
@@ -3409,28 +3409,28 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "24375",
        householdMean: "57951",
        familyMean: "80069",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "22728"
     },
     "97751": {
-       householdMedian: "-",
-       familyMedian: "-",
-       marriedCoupleMedian: "-",
-       nonfamilyHouseholdMedian: "-",
+       householdMedian: "N/A",
+       familyMedian: "N/A",
+       marriedCoupleMedian: "N/A",
+       nonfamilyHouseholdMedian: "N/A",
        householdMean: "46680",
        familyMean: "76640",
-       marriedCoupleMean: "N",
-       nonfamilyMean: "N"
+       marriedCoupleMean: "N/A",
+       nonfamilyMean: "N/A"
     },
     "97752": {
-       householdMedian: "-",
-       familyMedian: "-",
-       marriedCoupleMedian: "-",
-       nonfamilyHouseholdMedian: "-",
-       householdMean: "-",
-       familyMean: "-",
-       marriedCoupleMean: "-",
-       nonfamilyMean: "-"
+       householdMedian: "N/A",
+       familyMedian: "N/A",
+       marriedCoupleMedian: "N/A",
+       nonfamilyHouseholdMedian: "N/A",
+       householdMean: "N/A",
+       familyMean: "N/A",
+       marriedCoupleMean: "N/A",
+       nonfamilyMean: "N/A"
     },
     "97753": {
        householdMedian: "92849",
@@ -3439,7 +3439,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "39426",
        householdMean: "105210",
        familyMean: "113029",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "48388"
     },
     "97754": {
@@ -3449,7 +3449,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "25713",
        householdMean: "54474",
        familyMean: "62581",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "34194"
     },
     "97756": {
@@ -3459,17 +3459,17 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "31094",
        householdMean: "68465",
        familyMean: "76534",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "45028"
     },
     "97758": {
        householdMedian: "21932",
-       familyMedian: "-",
+       familyMedian: "N/A",
        marriedCoupleMedian: "51750",
        nonfamilyHouseholdMedian: "20556",
        householdMean: "56868",
        familyMean: "81456",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "18450"
     },
     "97759": {
@@ -3479,7 +3479,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "33444",
        householdMean: "95625",
        familyMean: "109946",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "51110"
     },
     "97760": {
@@ -3489,7 +3489,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "31544",
        householdMean: "71309",
        familyMean: "82307",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "42308"
     },
     "97761": {
@@ -3499,7 +3499,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "20875",
        householdMean: "51891",
        familyMean: "52574",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "31448"
     },
     "97801": {
@@ -3509,7 +3509,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "28621",
        householdMean: "64492",
        familyMean: "77281",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "39938"
     },
     "97810": {
@@ -3519,7 +3519,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "48958",
        householdMean: "87540",
        familyMean: "96507",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "62112"
     },
     "97812": {
@@ -3529,7 +3529,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "34375",
        householdMean: "68238",
        familyMean: "68418",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "65700"
     },
     "97813": {
@@ -3539,7 +3539,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "21944",
        householdMean: "65228",
        familyMean: "72310",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "26461"
     },
     "97814": {
@@ -3549,18 +3549,18 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "28926",
        householdMean: "63407",
        familyMean: "77993",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "36421"
     },
     "97817": {
-       householdMedian: "-",
-       familyMedian: "-",
-       marriedCoupleMedian: "-",
-       nonfamilyHouseholdMedian: "-",
-       householdMean: "N",
-       familyMean: "N",
-       marriedCoupleMean: "N",
-       nonfamilyMean: "-"
+       householdMedian: "N/A",
+       familyMedian: "N/A",
+       marriedCoupleMedian: "N/A",
+       nonfamilyHouseholdMedian: "N/A",
+       householdMean: "N/A",
+       familyMean: "N/A",
+       marriedCoupleMean: "N/A",
+       nonfamilyMean: "N/A"
     },
     "97818": {
        householdMedian: "51928",
@@ -3569,17 +3569,17 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "23292",
        householdMean: "63723",
        familyMean: "70740",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "38888"
     },
     "97819": {
        householdMedian: "53750",
-       familyMedian: "-",
-       marriedCoupleMedian: "-",
-       nonfamilyHouseholdMedian: "-",
+       familyMedian: "N/A",
+       marriedCoupleMedian: "N/A",
+       nonfamilyHouseholdMedian: "N/A",
        householdMean: "122947",
        familyMean: "209475",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "24057"
     },
     "97820": {
@@ -3589,7 +3589,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "27500",
        householdMean: "62634",
        familyMean: "71559",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "35661"
     },
     "97823": {
@@ -3599,7 +3599,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "24000",
        householdMean: "48863",
        familyMean: "61319",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "28266"
     },
     "97824": {
@@ -3609,7 +3609,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "22868",
        householdMean: "67485",
        familyMean: "78469",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "29196"
     },
     "97825": {
@@ -3619,7 +3619,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "31875",
        householdMean: "57904",
        familyMean: "70711",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "36055"
     },
     "97826": {
@@ -3629,7 +3629,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "22917",
        householdMean: "63338",
        familyMean: "75168",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "33744"
     },
     "97827": {
@@ -3639,7 +3639,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "22589",
        householdMean: "51554",
        familyMean: "63829",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "27652"
     },
     "97828": {
@@ -3649,7 +3649,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "22366",
        householdMean: "61326",
        familyMean: "79930",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "29652"
     },
     "97830": {
@@ -3659,7 +3659,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "28233",
        householdMean: "43421",
        familyMean: "54585",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "32239"
     },
     "97833": {
@@ -3669,7 +3669,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "20197",
        householdMean: "61018",
        familyMean: "60725",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "45428"
     },
     "97834": {
@@ -3679,7 +3679,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "28750",
        householdMean: "52768",
        familyMean: "65853",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "33016"
     },
     "97835": {
@@ -3689,7 +3689,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "27500",
        householdMean: "59680",
        familyMean: "66173",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "37993"
     },
     "97836": {
@@ -3699,17 +3699,17 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "35665",
        householdMean: "61711",
        familyMean: "70214",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "39063"
     },
     "97837": {
-       householdMedian: "-",
+       householdMedian: "N/A",
        familyMedian: "78125",
        marriedCoupleMedian: "78125",
        nonfamilyHouseholdMedian: "20313",
        householdMean: "45425",
        familyMean: "68247",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "19092"
     },
     "97838": {
@@ -3719,37 +3719,37 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "36871",
        householdMean: "67732",
        familyMean: "74696",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "45346"
     },
     "97839": {
        householdMedian: "50625",
        familyMedian: "52679",
        marriedCoupleMedian: "51875",
-       nonfamilyHouseholdMedian: "-",
+       nonfamilyHouseholdMedian: "N/A",
        householdMean: "56205",
        familyMean: "61914",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "33674"
     },
     "97840": {
        householdMedian: "79732",
        familyMedian: "78661",
        marriedCoupleMedian: "69792",
-       nonfamilyHouseholdMedian: "-",
+       nonfamilyHouseholdMedian: "N/A",
        householdMean: "91397",
        familyMean: "88692",
-       marriedCoupleMean: "N",
-       nonfamilyMean: "-"
+       marriedCoupleMean: "N/A",
+       nonfamilyMean: "N/A"
     },
     "97841": {
        householdMedian: "76500",
        familyMedian: "79318",
        marriedCoupleMedian: "82955",
-       nonfamilyHouseholdMedian: "-",
+       nonfamilyHouseholdMedian: "N/A",
        householdMean: "79800",
        familyMean: "85865",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "59184"
     },
     "97842": {
@@ -3759,7 +3759,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "24135",
        householdMean: "58315",
        familyMean: "70318",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "23718"
     },
     "97843": {
@@ -3769,7 +3769,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "36250",
        householdMean: "78586",
        familyMean: "93943",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "36094"
     },
     "97844": {
@@ -3779,7 +3779,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "37917",
        householdMean: "66526",
        familyMean: "68530",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "47329"
     },
     "97845": {
@@ -3789,7 +3789,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "24830",
        householdMean: "56023",
        familyMean: "64657",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "45592"
     },
     "97846": {
@@ -3799,17 +3799,17 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "27750",
        householdMean: "74014",
        familyMean: "85397",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "45791"
     },
     "97848": {
        householdMedian: "50556",
        familyMedian: "52031",
        marriedCoupleMedian: "52188",
-       nonfamilyHouseholdMedian: "-",
+       nonfamilyHouseholdMedian: "N/A",
        householdMean: "76947",
        familyMean: "84605",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "31285"
     },
     "97850": {
@@ -3819,7 +3819,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "28771",
        householdMean: "67953",
        familyMean: "79189",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "47474"
     },
     "97856": {
@@ -3829,7 +3829,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "67587",
        householdMean: "57716",
        familyMean: "65060",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "50787"
     },
     "97857": {
@@ -3839,18 +3839,18 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "18500",
        householdMean: "53701",
        familyMean: "64635",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "20966"
     },
     "97859": {
-       householdMedian: "-",
-       familyMedian: "-",
-       marriedCoupleMedian: "-",
-       nonfamilyHouseholdMedian: "-",
+       householdMedian: "N/A",
+       familyMedian: "N/A",
+       marriedCoupleMedian: "N/A",
+       nonfamilyHouseholdMedian: "N/A",
        householdMean: "59798",
        familyMean: "62463",
-       marriedCoupleMean: "N",
-       nonfamilyMean: "N"
+       marriedCoupleMean: "N/A",
+       nonfamilyMean: "N/A"
     },
     "97862": {
        householdMedian: "49556",
@@ -3859,7 +3859,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "21108",
        householdMean: "64326",
        familyMean: "77701",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "31135"
     },
     "97864": {
@@ -3869,7 +3869,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "20000",
        householdMean: "42184",
        familyMean: "43018",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "37575"
     },
     "97865": {
@@ -3879,7 +3879,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "18333",
        householdMean: "58157",
        familyMean: "70322",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "32017"
     },
     "97867": {
@@ -3889,7 +3889,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "30481",
        householdMean: "54735",
        familyMean: "61903",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "34681"
     },
     "97868": {
@@ -3899,7 +3899,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "31667",
        householdMean: "74511",
        familyMean: "85343",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "52763"
     },
     "97869": {
@@ -3909,7 +3909,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "19615",
        householdMean: "50286",
        familyMean: "60073",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "27089"
     },
     "97870": {
@@ -3919,7 +3919,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "21607",
        householdMean: "48880",
        familyMean: "58179",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "34049"
     },
     "97873": {
@@ -3929,7 +3929,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "16250",
        householdMean: "56702",
        familyMean: "72842",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "25436"
     },
     "97874": {
@@ -3939,7 +3939,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "20417",
        householdMean: "43647",
        familyMean: "47473",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "32341"
     },
     "97875": {
@@ -3949,7 +3949,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "43162",
        householdMean: "66210",
        familyMean: "66449",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "48619"
     },
     "97876": {
@@ -3959,7 +3959,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "60000",
        householdMean: "78379",
        familyMean: "80128",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "62069"
     },
     "97877": {
@@ -3969,7 +3969,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "9145",
        householdMean: "32347",
        familyMean: "65615",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "15293"
     },
     "97880": {
@@ -3979,7 +3979,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "28333",
        householdMean: "54340",
        familyMean: "67010",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "38050"
     },
     "97882": {
@@ -3989,7 +3989,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "26062",
        householdMean: "52272",
        familyMean: "59928",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "38091"
     },
     "97883": {
@@ -3999,7 +3999,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "38882",
        householdMean: "62838",
        familyMean: "70080",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "42109"
     },
     "97884": {
@@ -4009,7 +4009,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "33750",
        householdMean: "48726",
        familyMean: "59856",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "33608"
     },
     "97885": {
@@ -4019,7 +4019,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "27083",
        householdMean: "53495",
        familyMean: "63682",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "36182"
     },
     "97886": {
@@ -4029,28 +4029,28 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "19135",
        householdMean: "69613",
        familyMean: "82407",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "30924"
     },
     "97901": {
        householdMedian: "43646",
        familyMedian: "50469",
        marriedCoupleMedian: "55197",
-       nonfamilyHouseholdMedian: "-",
+       nonfamilyHouseholdMedian: "N/A",
        householdMean: "56879",
        familyMean: "57276",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "54910"
     },
     "97903": {
        householdMedian: "74000",
        familyMedian: "74000",
        marriedCoupleMedian: "81250",
-       nonfamilyHouseholdMedian: "-",
+       nonfamilyHouseholdMedian: "N/A",
        householdMean: "117779",
        familyMean: "117779",
-       marriedCoupleMean: "N",
-       nonfamilyMean: "-"
+       marriedCoupleMean: "N/A",
+       nonfamilyMean: "N/A"
     },
     "97904": {
        householdMedian: "47813",
@@ -4059,18 +4059,18 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "16442",
        householdMean: "101991",
        familyMean: "115014",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "61217"
     },
     "97905": {
        householdMedian: "82500",
        familyMedian: "90250",
        marriedCoupleMedian: "90250",
-       nonfamilyHouseholdMedian: "-",
+       nonfamilyHouseholdMedian: "N/A",
        householdMean: "75073",
        familyMean: "77169",
-       marriedCoupleMean: "N",
-       nonfamilyMean: "N"
+       marriedCoupleMean: "N/A",
+       nonfamilyMean: "N/A"
     },
     "97906": {
        householdMedian: "47708",
@@ -4079,38 +4079,38 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "15357",
        householdMean: "62327",
        familyMean: "76290",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "22619"
     },
     "97907": {
        householdMedian: "47500",
        familyMedian: "51875",
        marriedCoupleMedian: "58068",
-       nonfamilyHouseholdMedian: "-",
+       nonfamilyHouseholdMedian: "N/A",
        householdMean: "53526",
        familyMean: "61718",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "45715"
     },
     "97908": {
        householdMedian: "23750",
-       familyMedian: "-",
-       marriedCoupleMedian: "-",
+       familyMedian: "N/A",
+       marriedCoupleMedian: "N/A",
        nonfamilyHouseholdMedian: "26250",
        householdMean: "31694",
        familyMean: "34850",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "29170"
     },
     "97909": {
-       householdMedian: "-",
-       familyMedian: "-",
-       marriedCoupleMedian: "-",
-       nonfamilyHouseholdMedian: "-",
-       householdMean: "N",
-       familyMean: "N",
-       marriedCoupleMean: "N",
-       nonfamilyMean: "-"
+       householdMedian: "N/A",
+       familyMedian: "N/A",
+       marriedCoupleMedian: "N/A",
+       nonfamilyHouseholdMedian: "N/A",
+       householdMean: "N/A",
+       familyMean: "N/A",
+       marriedCoupleMean: "N/A",
+       nonfamilyMean: "N/A"
     },
     "97910": {
        householdMedian: "46136",
@@ -4119,17 +4119,17 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "20625",
        householdMean: "68606",
        familyMean: "71143",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "58465"
     },
     "97911": {
        householdMedian: "45000",
        familyMedian: "48333",
        marriedCoupleMedian: "48750",
-       nonfamilyHouseholdMedian: "-",
+       nonfamilyHouseholdMedian: "N/A",
        householdMean: "45990",
        familyMean: "60930",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "33089"
     },
     "97913": {
@@ -4139,7 +4139,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "16840",
        householdMean: "52602",
        familyMean: "60113",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "29769"
     },
     "97914": {
@@ -4149,7 +4149,7 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "23081",
        householdMean: "55158",
        familyMean: "62166",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "37939"
     },
     "97918": {
@@ -4159,17 +4159,17 @@ const oregon_income_rates = {
        nonfamilyHouseholdMedian: "20375",
        householdMean: "55840",
        familyMean: "64926",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "29863"
     },
     "97920": {
-       householdMedian: "-",
-       familyMedian: "-",
-       marriedCoupleMedian: "-",
+       householdMedian: "N/A",
+       familyMedian: "N/A",
+       marriedCoupleMedian: "N/A",
        nonfamilyHouseholdMedian: "8995",
        householdMean: "32651",
        familyMean: "102250",
-       marriedCoupleMean: "N",
+       marriedCoupleMean: "N/A",
        nonfamilyMean: "12404"
     }
  }
