@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/covid-income/static/css/main.80c25fc9.chunk.css",
-    "main.js": "/covid-income/static/js/main.ac1368be.chunk.js",
-    "main.js.map": "/covid-income/static/js/main.ac1368be.chunk.js.map",
+    "main.css": "/covid-income/static/css/main.af20d2b8.chunk.css",
+    "main.js": "/covid-income/static/js/main.29baaece.chunk.js",
+    "main.js.map": "/covid-income/static/js/main.29baaece.chunk.js.map",
     "runtime-main.js": "/covid-income/static/js/runtime-main.8c00fd99.js",
     "runtime-main.js.map": "/covid-income/static/js/runtime-main.8c00fd99.js.map",
-    "static/js/2.81bcfc0c.chunk.js": "/covid-income/static/js/2.81bcfc0c.chunk.js",
-    "static/js/2.81bcfc0c.chunk.js.map": "/covid-income/static/js/2.81bcfc0c.chunk.js.map",
+    "static/js/2.20434be8.chunk.js": "/covid-income/static/js/2.20434be8.chunk.js",
+    "static/js/2.20434be8.chunk.js.map": "/covid-income/static/js/2.20434be8.chunk.js.map",
     "static/js/3.45ff58bd.chunk.js": "/covid-income/static/js/3.45ff58bd.chunk.js",
     "static/js/3.45ff58bd.chunk.js.map": "/covid-income/static/js/3.45ff58bd.chunk.js.map",
     "index.html": "/covid-income/index.html",
-    "static/css/main.80c25fc9.chunk.css.map": "/covid-income/static/css/main.80c25fc9.chunk.css.map",
-    "static/js/2.81bcfc0c.chunk.js.LICENSE.txt": "/covid-income/static/js/2.81bcfc0c.chunk.js.LICENSE.txt",
+    "static/css/main.af20d2b8.chunk.css.map": "/covid-income/static/css/main.af20d2b8.chunk.css.map",
+    "static/js/2.20434be8.chunk.js.LICENSE.txt": "/covid-income/static/js/2.20434be8.chunk.js.LICENSE.txt",
     "static/media/ACSST5Y2018.S1901_metadata_2020-11-28T202855.csv": "/covid-income/static/media/ACSST5Y2018.S1901_metadata_2020-11-28T202855.4e7af174.csv",
     "static/media/ACSST5Y2018.S1901_table_title_2020-11-28T202855.txt": "/covid-income/static/media/ACSST5Y2018.S1901_table_title_2020-11-28T202855.5a4a78f0.txt",
     "static/media/Weekly-COVID-19-Report.pdf": "/covid-income/static/media/Weekly-COVID-19-Report.619be27f.pdf",
@@ -19,8 +19,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.8c00fd99.js",
-    "static/js/2.81bcfc0c.chunk.js",
-    "static/css/main.80c25fc9.chunk.css",
-    "static/js/main.ac1368be.chunk.js"
+    "static/js/2.20434be8.chunk.js",
+    "static/css/main.af20d2b8.chunk.css",
+    "static/js/main.29baaece.chunk.js"
   ]
 }
