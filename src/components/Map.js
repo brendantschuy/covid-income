@@ -2,8 +2,8 @@ import React, { useEffect, useState } from 'react';
 import L from 'leaflet';
 import covidRates from '../data/oregon_covid_rates';
 import incomeRates from '../data/oregon_income_rates';
-import colors from '../constants/colors';
-import { get } from "lodash";
+import { colors, labels } from '../constants/colors';
+import { flatten, get } from "lodash";
 import { mean, std } from "mathjs";
 
 const GEO_JSON_FILE_NAME = "oregon_zipcode_polygons_geo.min.json";
@@ -59,19 +59,19 @@ const Map = () => {
         // console.log("Lower = ", covidMean - covidStd);
         // console.log("Upper = ", covidMean + covidStd);
         let covidIndex, incomeIndex;
-        if(covid < covidMean - covidStd) {
+        if (covid < covidMean - covidStd) {
             covidIndex = 0;
         }
-        else if(covid > covidMean + covidStd) {
+        else if (covid > covidMean + covidStd) {
             covidIndex = 2;
         }
         else {
             covidIndex = 1;
         }
-        if(income < incomeMean - incomeStd) {
+        if (income < incomeMean - incomeStd) {
             incomeIndex = 0;
         }
-        else if(income > incomeMean + incomeStd) {
+        else if (income > incomeMean + incomeStd) {
             incomeIndex = 2;
         }
         else {
@@ -106,14 +106,24 @@ const Map = () => {
         console.log(geoJsonZipCodes);
         if (covidMean > 0) {
             const myMap = L.map("mapid").setView([44.09, -121.92], 7);
-            L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png?{foo}', { foo: 'bar', attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>', opacity: 0.1}).addTo(myMap);
+            L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png?{foo}', { foo: 'bar', attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>', opacity: 0.1 }).addTo(myMap);
             L.geoJSON(geoJsonZipCodes, {
                 style,
                 onEachFeature
             }).addTo(myMap);
-            const  legend = L.control({position: 'bottomright'});
+            const legend = L.control({ position: 'bottomright' });
+
             legend.onAdd = () => {
-                const div = L.DomUtil.create('div', 'info legend');
+                var div = L.DomUtil.create('div', 'info legend'),
+                    grades = [0, 10, 20, 50, 100, 200, 500, 1000];
+
+                const flatColors = flatten(colors);
+                const flatLabels = flatten(labels);
+                // loop through our density intervals and generate a label with a colored square for each interval
+                for (var i = 0; i < flatColors.length; i++) {
+                    div.innerHTML +=
+                        `<i style="background:${flatColors[i]}"></i>${flatLabels[i]}<br />` 
+                }
                 return div;
             }
             legend.addTo(myMap);
